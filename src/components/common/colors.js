@@ -1,0 +1,10 @@
+export const lightyellow = "#FEEBC1";
+export const Gray = "#D6D6D6";
+export const Lightgray = "#F1F2F6";
+export const Navyblue = "#31B9CC";
+export const Yellow = "#FECA57";
+export const Black = "#0A191E";
+export const White = "#FFFFFF";
+export const Darkgray = "#798184";
+export const Wheatgray = "#E5E5E5";
+export const Darkyellow = "#E6B64E";
